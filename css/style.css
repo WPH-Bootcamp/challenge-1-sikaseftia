@@ -1,1 +1,11 @@
-/* code here */
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background: #faf8f6;
+}
+.hero {
+  max-width: 1200px;
+  margin: 0 auto;
+}
